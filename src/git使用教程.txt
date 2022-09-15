@@ -1,0 +1,3 @@
+一、进入该项目的最外层目录 点击鼠标右键 git bash
+二、并输入git init 把项目初始化到git里面
+三、使用idea传到gitee创建的仓库
